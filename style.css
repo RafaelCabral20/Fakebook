@@ -1,0 +1,77 @@
+html {
+      background: rgb(2,0,36);
+      background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(33,40,133,0.8295693277310925) 32%, rgba(0,212,255,1) 100%);
+
+      }
+
+h1 {
+color: #0068ff;
+font-family: arial, sans-serif;
+font-size: 24px;
+font-weight: bold;
+margin-top: 50px;
+margin-bottom: 10px;
+}
+
+h2 {
+color: #000000;
+font-family: arial, sans-serif;
+font-size: 24px;
+font-weight: bold;
+margin-top: 400px;
+margin-bottom: 20px;
+}
+
+.Proc {
+color: #0068ff;
+position: absolute
+font-family: arial, sans-serif;
+font-size: 24px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}
+
+.imagens {
+position: absolute
+top: 00px;
+left: 00px;
+
+}
+
+.img1 {
+border-radius: 25px;
+border: 15px black solid;
+position: absolute;
+top: 180px;
+left: 15px;
+z-index:3;
+}
+.img2 {
+
+position: absolute;
+margin-top: 50px;
+top: 1px;
+left: 350px;
+z-index:2;
+}
+
+.button1 {
+color: #0068ff;
+position: absolute
+font-family: arial, sans-serif;
+font-size: 16px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+.informação {
+color: #000000;
+position: absolute
+font-family: arial, sans-serif;
+font-size: 20px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}
